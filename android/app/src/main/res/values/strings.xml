@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">challange_app</string>
+
+
+
+<string name="facebook_app_id">492290478628537</string>
+
+
+<string name="fb_login_protocol_scheme">fb492290478628537</string>
+
+
+</resources>
